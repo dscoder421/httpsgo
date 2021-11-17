@@ -1,5 +1,5 @@
 # httpsgo
-Small code to make beginners easily start a GoLang server
+Small code to make beginners easily start a GoLang server and is built only using the <a href="https://pkg.go.dev/net/http">http</a> package bundled with go
 
 This is a repository for making servers easily like this:
 
