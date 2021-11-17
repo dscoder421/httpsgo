@@ -1,6 +1,8 @@
 # httpsgo
 Go package to make beginners easily start a GoLang server, and even fulfil the needs of a expert which is built only using the <a href="https://pkg.go.dev/net/http">http</a> package bundled with go
 
+NOTE: The dot before the `"github.com/..."` will make sure you don't add package name before the function code i.e `httpsgo.StartHttpServer(":3000")` and it is optional. Remove if you don't like it. 
+
 This is a repository for making servers easily like this:
 
 ```golang
